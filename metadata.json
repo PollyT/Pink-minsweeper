@@ -1,0 +1,5 @@
+{
+  "name": "Cozy Rose Minesweeper",
+  "description": "A relaxing, pink-themed Minesweeper game with regenerative undo mechanics. Unlock mystical Tarot cards and receive AI-generated readings upon victory.",
+  "requestFramePermissions": []
+}
